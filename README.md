@@ -1,4 +1,4 @@
-# COVID-Deaths-and-Vaccination-Project
+# COVID-Deaths-Project
 
 🦠📊 COVID-19 Data Analysis — SQL & Tableau Project
 
